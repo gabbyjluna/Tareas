@@ -1,0 +1,135 @@
+/* ------------------------------ Design 1 ------------------------------ */
+
+body {
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+#banner {
+    background-image: url(./../imagenes/design2_image1.jpg);
+    height: 300px;
+    width: 98%;
+    image-rendering: auto;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#titule {
+    font-size: 20pt;
+    text-align: center;
+    margin-top: 0%;
+    border: 1px solid black;
+    background-color: black;
+    color: #fff;
+}
+
+#logo {
+    border: 1px solid black;
+    background-color: #fff;
+    position: absolute;
+    top: 33%; right: 15%; 
+    margin: 0%;
+}
+
+h1 {
+    position: absolute;
+    font-size: 48pt;
+    margin-left: 30pt;
+    margin-left: 50pt;
+}
+
+nav {
+    position: absolute;
+    top: 60%; left: 5%;
+    width: 30%;
+}
+
+nav > a {
+    font-size: 25pt;
+    color: blue;
+    padding: 30%;
+    
+}
+
+#selected {
+    color: black
+}
+
+footer {
+    border-top: 3px solid black;
+    padding-top: 10pt;
+    font-size: 15pt;
+    text-align: center;
+}
+
+/* ------------------------------ Design 2 ------------------------------ */
+/*
+body {
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+#banner {
+    background-image: url(./../imagenes/design2_image1.jpg);
+    height: 300px;
+    width: 3000px;
+    image-rendering: auto;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 98%;
+}
+
+nav {
+    float: right;
+    color:#fff;
+}
+
+nav > a {
+    font-size: 25px;
+    padding: 8px;
+    margin: 5px;
+    background: #4472C4;
+    border: 1px solid black;
+    box-shadow: 5px 5px;
+}
+
+#selected {
+    background: #70AD47;
+}
+
+h1 {
+    font-size:48pt;
+    color: blue;
+}
+
+#titule {
+    font-size: 20pt;
+    text-align: center;
+    margin-top: 0%;
+    border: 1px solid black;
+}
+
+aside {
+    margin-right: 100pt;
+}
+
+article {
+    margin-left: 30%;
+}
+
+article h3 {
+    padding-left: 2%;
+    font-size: 20pt;
+}
+
+article h4 {
+    padding-left: 5%;
+}
+
+footer {
+    border-top: 3px solid black;
+    padding-top: 10pt;
+    font-size: 15pt;
+    text-align: center;
+}
+*/
